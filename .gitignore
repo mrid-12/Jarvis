@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.env
+test_*
+
+# Logs and debug
+*.log
+*.png
+*.jpg
+*.txt
+live_api_test_results.txt
+test_models_output.txt
+test_models_result.txt
+test_output*.txt
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
